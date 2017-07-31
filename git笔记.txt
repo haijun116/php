@@ -1,0 +1,18 @@
+git init 初始化一个仓库
+git config配置本地仓库
+常用git config--global user.name、git config--global user.email
+
+git config --list 查看配置详情
+
+git status 可以查看当前仓库的状态
+
+git add  文件 添加到暂存区中
+
+git commit -m '备注信息' 将暂缓区的内容提到本地仓库
+
+git log 查看本地仓库的提交历史
+
+git reset --hard sqdw222e2dwd一个编码就可以恢复到你想要的版本     
+
+git branch 查看分支
+        
